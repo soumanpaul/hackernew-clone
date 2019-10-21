@@ -10,7 +10,7 @@
 - Memo
 - Nodejs
 - javaScrip
-
+[DEMO](https://hackernews24.netlify.com/)
 ![image](image/app-screenshort.png)
 
 ## Available Scripts
