@@ -1,4 +1,4 @@
-## News-reader Web App
+## News-reader Web App [DEMO](https://hackernews24.netlify.com/)
 
 # Technologies used:
 
@@ -10,7 +10,7 @@
 - Memo
 - Nodejs
 - javaScrip
-[DEMO](https://hackernews24.netlify.com/)
+
 ![image](image/app-screenshort.png)
 
 ## Available Scripts
